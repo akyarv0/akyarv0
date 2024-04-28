@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="akyarv0" width="800" height="400" style="margin-left:200px" />
+<h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="akyarv0" width="600" height="300" /></h1>
 <h1 align="center">Hi 👋, I'm Veysel</h1> 
 <h3 align="center">I am a software developer from Turkey.</h3>
 
