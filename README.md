@@ -66,6 +66,18 @@
         <td>React - useState</td>
         <td><a href="https://github.com/akyarv0/react-ass-2">Repo Link</a></td>
       </tr>
+         <tr style="margin: auto;">
+        <td><a href="https://img-app-akyarv0.netlify.app/">Image Gallery</a></td>
+        <td>React - useState</td>
+        <td><a href="https://github.com/akyarv0/img-app">Repo Link</a></td>
+      </tr>
+           <tr style="margin: auto;">
+        <td><a href="https://router-nine-phi.vercel.app/">Portfolio Example</a></td>
+        <td>React-Router-SASS-SCSS-useState-useEffect </td>
+        <td><a href="https://github.com/akyarv0/router">Repo Link</a></td>
+      </tr>
+      
+      
       
       
       
