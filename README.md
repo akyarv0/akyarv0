@@ -17,3 +17,23 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akyarv0&show_icons=true&locale=en" alt="akyarv0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akyarv0&" alt="akyarv0" /></p>
+<table border="1"  align="center">
+        <h3 align="center">MY PROJECTS</h3>
+    <td  align="center"><strong>Project Live Link</strong></td>
+      <td  align="center">
+        <strong
+          >Frameworks, Libraries And Technologies I Used To Make It</strong
+        >
+      </td>
+      <td  align="center""><strong>Github Repository Link</strong></td>
+   <tr style="margin: auto;">
+        <td><a href="https://movie-app-s01-starter.vercel.app/register">Movie App</a></td>
+        <td>React, Tailwind, Axios, Vercel And Firebase</td>
+        <td><a href="https://github.com/akyarv0/movie-app-with-React">Repo Link</a></td>
+      </tr>
+      <tr style="margin: auto;">
+        <td><a href="link">proje ismi</a></td>
+        <td>açıklaması</td>
+        <td><a href="">repo linki</a></td>
+      </tr>
+
