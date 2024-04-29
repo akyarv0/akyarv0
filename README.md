@@ -51,4 +51,24 @@
         <td>React - useState - useEffect - Axios - Async - Await </td>
         <td><a href="https://github.com/akyarv0/NBA-Legends">Repo Link</a></td>
       </tr>
+       <tr style="margin: auto;">
+        <td><a href="https://react-interview-akyarv0.netlify.app/">React Interview Question</a></td>
+        <td>React - useState</td>
+        <td><a href="https://github.com/akyarv0/react-ass3">Repo Link</a></td>
+      </tr>
+         <tr style="margin: auto;">
+        <td><a href="https://react-ass1-akyarv0.netlify.app">Lessons Schedule</a></td>
+        <td>React - useState</td>
+        <td><a href="https://github.com/akyarv0/react-ass-1">Repo Link</a></td>
+      </tr>
+        <tr style="margin: auto;">
+        <td><a href="https://react-ass-2.vercel.app/">Employee List</a></td>
+        <td>React - useState</td>
+        <td><a href="https://github.com/akyarv0/react-ass-2">Repo Link</a></td>
+      </tr>
+      
+      
+      
+     
+      
 
