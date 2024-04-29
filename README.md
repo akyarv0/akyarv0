@@ -26,10 +26,15 @@
         >
       </td>
       <td  align="center""><strong>Github Repository Link</strong></td>
-   <tr style="margin: auto;">
+   <tr>
         <td><a href="https://movie-app-s01-starter.vercel.app/register">Movie App</a></td>
-        <td>React, Tailwind, Axios, Vercel And Firebase</td>
+        <td>React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API - React-icons</td>
         <td><a href="https://github.com/akyarv0/movie-app-with-React">Repo Link</a></td>
+      </tr>
+         <tr>
+        <td><a href="https://product-list-akyarv0.netlify.app/">Product List App</a></td>
+        <td> React - useState - useEffect - useContext - axios - async/await </td>
+        <td><a href="https://github.com/akyarv0/product-list">Repo Link</a></td>
       </tr>
       <tr style="margin: auto;">
         <td><a href="link">proje ismi</a></td>
