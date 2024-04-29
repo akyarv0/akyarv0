@@ -37,8 +37,18 @@
         <td><a href="https://github.com/akyarv0/product-list">Repo Link</a></td>
       </tr>
       <tr style="margin: auto;">
-        <td><a href="link">proje ismi</a></td>
-        <td>açıklaması</td>
-        <td><a href="">repo linki</a></td>
+        <td><a href="https://nba-legends-akyarv0.netlify.app/">NBA Legends</a></td>
+        <td>React - useState - useEffect - useRef</td>
+        <td><a href="https://github.com/akyarv0/NBA-Legends">Repo Link</a></td>
+      </tr>
+        <tr style="margin: auto;">
+        <td><a href="https://usecontext-akyarv0.netlify.app/">useContext Work Page</a></td>
+        <td>React - useState - useEffect - useRef</td>
+        <td><a href="https://github.com/akyarv0/context1">Repo Link</a></td>
+      </tr>
+       <tr style="margin: auto;">
+        <td><a href="https://ass4-rouge.vercel.app/">Random User With React</a></td>
+        <td>React - useState - useEffect - Axios - Async - Await </td>
+        <td><a href="https://github.com/akyarv0/NBA-Legends">Repo Link</a></td>
       </tr>
 
