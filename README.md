@@ -46,9 +46,9 @@
 
 <h1 align=center> Connect With Me:</h1>
 <div align=center >
-     <a href="https://www.linkedin.com/in/alimerterdogan/"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=linkedin" /></a>
-    <a href="https://stackoverflow.com/users/23258196/ali-mert-erdo%c4%9fan"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=stackoverflow" /></a>
-  <a href="https://dev.to/aliwert"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=devto" /></a>
+     <a href="https://https://www.linkedin.com/in/veysel-akyar//"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=linkedin" /></a>
+   
+
  </div>
 
 
