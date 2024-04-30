@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=akyarv0&style=for-the-badge&color=brightgreen)
 <h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="akyarv0" width="600" height="300" /></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Veysel;Welcome+to+my+profile!;Description+of+myself%3A;I'm a software developer from Turkey;Tennis Player;Chess Lover;Pencil Drawer" alt="Typing SVG" /></a>
 
-<h1 align="center">Hi 👋, I'm Veysel</h1> 
-<h3 align="center">I am a software developer from Turkey.</h3>
 
 
 
