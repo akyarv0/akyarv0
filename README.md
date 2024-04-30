@@ -1,13 +1,11 @@
 <h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="akyarv0" width="600" height="300" /></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akyarv0&label=Profile%20views&color=0e75b6&style=flat" alt="akyarv0" /> </p>
 <h1 align="center">Hi 👋, I'm Veysel</h1> 
 <h3 align="center">I am a software developer from Turkey.</h3>
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/veysel-akyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veysel akyar" height="30" width="40" /></a>
-</p>
+
 
 <h2 align="center">:rocket:Technical Skills</h2>
 <div align="center">
@@ -16,6 +14,7 @@
 <img width="40px" alt="python" title="python" src="https://skillicons.dev/icons?i=py&theme=light" />
 
 <img width="40px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
+
 
 
 
@@ -41,11 +40,25 @@
 <img width="40px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
 
 <img width="40px" alt="photoshop" title="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-</div>
-</br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akyarv0&show_icons=true&locale=en" alt="akyarv0" /></p>
+</div><br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akyarv0&" alt="akyarv0" /></p>
+
+<h1 align=center> Connect With Me:</h1>
+<div align=center >
+     <a href="https://www.linkedin.com/in/alimerterdogan/"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=linkedin" /></a>
+    <a href="https://stackoverflow.com/users/23258196/ali-mert-erdo%c4%9fan"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+  <a href="https://dev.to/aliwert"><img width="50px" height="50px" src="https://skillicons.dev/icons?i=devto" /></a>
+ </div>
+
+
+
+</br>
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akyarv0&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=akyarv0&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
 <table border="1"  align="center">
         <h3 align="center">MY PROJECTS</h3>
     <td  align="center"><strong>Project Live Link</strong></td>
