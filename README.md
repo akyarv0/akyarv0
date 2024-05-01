@@ -77,6 +77,10 @@
         <td><a href="https://product-list-akyarv0.netlify.app/">Product List App</a></td>
         <td> React - useState - useEffect - useContext - axios - async/await </td>
         <td><a href="https://github.com/akyarv0/product-list">Repo Link</a></td>
+      </tr><tr style="margin: auto;">
+        <td><a href="https://exchange-app-puce.vercel.app/">Exchange App</a></td>
+        <td>React-useState-useEffect-Axios-RestAPI </td>
+        <td><a href="https://github.com/akyarv0/exchange-app">Repo Link</a></td>
       </tr>
       <tr style="margin: auto;">
         <td><a href="https://nba-legends-akyarv0.netlify.app/">NBA Legends</a></td>
@@ -118,6 +122,7 @@
         <td>React-Router-SASS-SCSS-useState-useEffect </td>
         <td><a href="https://github.com/akyarv0/router">Repo Link</a></td>
       </tr>
+ 
       
       
       
