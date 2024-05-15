@@ -69,7 +69,7 @@
       </td>
       <td  align="center""><strong>Github Repository Link</strong></td>
    <tr>
-        <td><a href="https://movie-app-s01-starter.vercel.app/register">Movie App</a></td>
+        <td><a href="https://movie-app-s01-starter.vercel.app/login">Movie App</a></td>
         <td>React - useState - useEffect - useContext - useNavigate - axios - async/await - Tailwind - react-router - react-toastify - Firebase - Context API - React-icons</td>
         <td><a href="https://github.com/akyarv0/movie-app-with-React">Repo Link</a></td>
       </tr>
